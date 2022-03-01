@@ -1,4 +1,4 @@
-#Questions For Day 1
+# Questions For Day 1
 
 Q.1 Write A Program To Get Input From User & Print It On Console.
 
