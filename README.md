@@ -7,6 +7,7 @@
 
 # <p align="center"> Daily Logs </p>
 - [day 1](https://github.com/Tushar-2003/100DaysOfDSA/tree/main/Codes/Day%201)
+- [day 2](https://github.com/Tushar-2003/100DaysOfDSA/tree/main/Codes/Day%202)
 
 <hr>
 
